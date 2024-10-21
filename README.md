@@ -1,2 +1,4 @@
 # Primer_Repositorio_3
-Primer repositorio creado en clase en el cual estara disponible mis practicas 
+Este respositorio es propiedad de: Luis Abisai Aguilar Gracia 3A programación TM
+En este repositorio están disponible mis prácticas de la segunda unidad realizadas en php.
+
