@@ -1,9 +1,0 @@
-<?php
-
-$dia=date("d");
-$fecha=date("d,m,y");
-
-
-
-
-?>
